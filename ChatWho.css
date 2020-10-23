@@ -1,11 +1,6 @@
-.window{
-    background-color: white;
-    width: 1000px;
-    height: 900px;
-    border: 1px solid black;
-    border-color: black;
-    border-radius: 22px;
-}
-.selector-for-some-widget {
-    box-sizing: content-box;
+.jumbotron {
+    background: url('http://placekitten.com/800/500') no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
   }
